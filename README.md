@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg)
+![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg)
 <h1 align="center">Hi 👋, I'm Recep Koçağa</h1>
 <h3 align="center">A passionate back_end developer from Turkey.</h3>
 
